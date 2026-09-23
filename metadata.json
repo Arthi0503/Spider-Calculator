@@ -1,0 +1,6 @@
+{
+  "name": "Spider Calculator",
+  "description": "A Spider-Man themed calculator with web-styled display, comic sound effects, and classic suit themes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
